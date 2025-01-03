@@ -10,3 +10,6 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
         alert('Please fill in all fields.');
     }
 });
+
+
+//example of git hub 
